@@ -7,6 +7,7 @@ First practice of python coding. According to the book from Fumitaka Osawa
 
 Lesson 5-2 Hit&Blow in one int--
 
+
 import random
 
 a = random.randint(0 , 9)
